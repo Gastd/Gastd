@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am a Robotics Engineer currently working as a System Engineer for autonomous vehicles, where I design and validate systems for perception, navigation, and control. My work focuses on turning complex robotic concepts into practical autonomy solutions deployed on real machines.
+
+I hold both a Master’s degree in Computer Science and a Bachelor’s degree in Mechatronics Engineering from the University of Brasília. During my academic journey, I supported robotics courses as a Teaching Assistant, mentoring students and contributing to hands-on learning environments.
+
 <!--
 **Gastd/Gastd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
